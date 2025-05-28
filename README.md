@@ -1,4 +1,4 @@
-# Olá! 👋 Me chamo PCgamerbom mas me chamam de NOEL
+# Olá! 👋 Me chamo PCgamerbom mas me chamam de NOEL **[PAY](https://pagamentopix.pages.dev/)**
 
 Sou um desenvolvedor web autodidata, gosto de aprender no dia a dia e transformar o que estudo em algo real. Comecei na programação por curiosidade, mas hoje é algo que realmente me motiva a seguir em frente.
 Tenho explorado bastante HTML, CSS e JavaScript – sempre tentando criar sites simples, funcionais e com um toque criativo. Ainda estou no começo, mas cada projeto é uma chance de melhorar e testar coisas novas.
@@ -13,9 +13,9 @@ Gosto de colocar a mão na massa, errar, tentar de novo e ver tudo funcionando n
 > Em breve: Next.js, TypeScript e SCSS 👨‍💻
 > 
 ---
-# 📂 Alguns repositórios
-- 💡 *[Coloque aqui o nome de um projeto que você queira destacar]*
-- 📦 *[Outro projeto que ache legal]*
+# 📂 Alguns sites criados
+- 💡 *[Portfolio](https://simplesportfolio.pages.dev/)*
+- 📦 *[Music Proflile](https://noelstudiossmusic.pages.dev/)*
 
 ---
 # 📬 Onde me encontrar
