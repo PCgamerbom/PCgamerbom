@@ -7,8 +7,8 @@
 
 <!-- Sonic GIF no topo -->
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200" width="150" alt="Sonic Running">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200" width="150" alt="Sonic Running">
+  <img src="https://tenor.com/vnQJ6CNu0gY.gif" width="200" width="150" alt="Sonic Running">
+  <img src="https://img.shields.io/badge/meow_♡-black" width="200" width="150" alt="Sonic Running">
 </div>
 
 <!-- Apresentação -->
