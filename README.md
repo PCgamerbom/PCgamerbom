@@ -1,10 +1,8 @@
 <!-- Cabeçalho animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0f9cd6"/>
 
-<!-- Sonic GIF no topo -->
-<div align="center">
-  <img src="[https://tenor.com/vnQJ6CNu0gY.gif](https://tenor.com/vnQJ6CNu0gY.gif)" width="150" alt="Sonic Running">
-</div>
+<img src="https://imgur.com/zeuHIk9.gif" width="200">
+<img src="https://img.shields.io/badge/meow_♡-black" />
 
 <!-- Apresentação -->
 <div align="center">
