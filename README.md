@@ -3,7 +3,7 @@
 
 <!-- Sonic GIF no topo -->
 <div align="center">
-  <img src="https://tenor.com/vnQJ6CNu0gY.gif" width="150" alt="Sonic Running">
+  <img src="[https://tenor.com/vnQJ6CNu0gY.gif](https://tenor.com/vnQJ6CNu0gY.gif)" width="150" alt="Sonic Running">
 </div>
 
 <!-- Apresentação -->
