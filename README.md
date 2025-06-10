@@ -38,26 +38,20 @@
 - I make mistakes, but I never give up  
 
 ---
-### 🚀 Technologies I'm using
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div>
-
----
 
 ### 📬 Contact Me
 
 <div align="center">
-  <a href="mailto:manoel.rj.junior@gmail.com">
+  <a href="mailto:noelzin261@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    
   <a href="https://github.com/pcgamerbom">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+    
   <a href="https://instagram.com/Noelzinn_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <a href="https://open.spotify.com/user/seuusuario">
+    
+  <a href="https://open.spotify.com/user/31vidxuecemwqdivhntejqnxd7ye">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </div>
 
