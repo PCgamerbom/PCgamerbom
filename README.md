@@ -3,7 +3,7 @@
 
 <!-- Sonic GIF no topo -->
 <div align="center">
-  <img src="https://tenor.com/vnQJ6CNu0gY.gif" width="200" width="150">
+  <img src="https://media.tenor.com/GfE3lTI09d4AAAAm/sonic-the-hedgehog.webp" width="200" width="150">
   <img src="https://img.shields.io/badge/meow_♡-black" width="200" width="150"/>
 </div>
 
