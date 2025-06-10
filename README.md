@@ -22,15 +22,8 @@
 
 <br>
 
-<!-- Sonic GIF -->
+<!-- Texto digitando -->
 <div align="center">
-  <img src="https://media.tenor.com/Ka7gwb_Zz6EAAAAi/sonic-sonic-running.gif" width="180">
-</div>
-
-<br>
-
-<!-- Efeito de texto digitando -->
-<div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0f9cd6&width=435&lines=Self-taught+Web+Developer!;Curious+mind+building+cool+stuff.;Loves+HTML%2C+CSS+%26+JavaScript.;Learning+day+by+day!" alt="Typing SVG" />
 </div>
 
@@ -58,16 +51,16 @@
 ### 📬 Contact Me
 
 <div align="center">
-  <a href="mailto:noelzin261@gmail.com">
+  <a href="mailto:manoel.rj.junior@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/pcgamerbom">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/nolzinn_" target="_blank">
+  <a href="https://instagram.com/seuusuario">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/seuusuario" target="_blank">
+  <a href="https://open.spotify.com/user/seuusuario">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </div>
