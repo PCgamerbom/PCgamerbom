@@ -1,6 +1,11 @@
 <!-- Cabeçalho animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0f9cd6"/>
 
+<!-- Sonic GIF no topo -->
+<div align="center">
+  <img src="https://media.tenor.com/Ka7gwb_Zz6EAAAAi/sonic-sonic-running.gif" width="150" alt="Sonic Running">
+</div>
+
 <!-- Apresentação -->
 <div align="center">
   <samp>
