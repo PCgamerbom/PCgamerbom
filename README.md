@@ -10,19 +10,24 @@
 <!-- Apresentação -->
 <div align="center">
   <samp>
-    <b>👋 Hello! I'm PCgamerbom, but you can call me NOEL</b>
+    <b>
+    エマニュエル
+    <br>
+    👋 Hello! My name is Emanoel</b>
     <br>
     Self-taught web developer passionate about creating and learning daily!
   </samp>
 </div>
 
-<!-- Contador de Visitas -->
-<div align="center" style="border: 2px solid white; display: inline-block; padding: 4px; border-radius: 8px;">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fpcgamerbom&color=0000f=0000f=2&ff=digi&tb=Visitors:" />
-</div>
 <br>
 
----
+<!-- Contador de Visitas -->
+<div align="center">
+  <p align="center">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fpcgamerbom&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+
+<br>
 
 ### 📂 Some projects I've made
 - 💡 [Portfolio](https://simplesportfolio.pages.dev/)
